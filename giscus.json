@@ -1,7 +1,6 @@
 {
   "origins": [
     "https://degraeve.fr",
-    "https://www.degraeve.fr",
-    "http://localhost:1313"
+    "https://www.degraeve.fr"
   ]
 }
